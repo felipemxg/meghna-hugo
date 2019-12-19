@@ -25,7 +25,7 @@ name = "Sobre"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Service"
+name = "Hipnoterapia"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
